@@ -2,13 +2,13 @@
 
 This repository explores fundamental methods for time series forecasting using both classical statistical models and deep learning techniques. The goal is to establish a comparative foundation between models like ARIMA and Recurrent Neural Networks (RNN) on time series data.
 
-> ⚠️ **Note:** This is the **first experimental version** of the project.  
+> **Note:** This is the **first experimental version** of the project.  
 > As a result, accuracy is relatively low, and improvements are planned for upcoming versions.  
 > The project is a work in progress and under active development.
 
 ---
 
-## 📂 Contents
+## Contents
 
 This repository includes the following notebooks:
 
@@ -20,7 +20,7 @@ This repository includes the following notebooks:
 
 ---
 
-## 📊 Objectives
+## Objectives
 
 - Understand and compare time series forecasting methods.
 - Evaluate model performance on a common dataset.
@@ -29,7 +29,7 @@ This repository includes the following notebooks:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the repository
 
